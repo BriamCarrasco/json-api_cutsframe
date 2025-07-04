@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "usuario": "jperez",
+    "email": "jperez@aa.cl",
+    "password": "Qwerty123@",
+    "fechaNacimiento": "1990-04-15",
+    "role": "cliente"
+  },
+  {
+    "nombre": "María",
+    "apellido": "Gómez",
+    "usuario": "mgomez",
+    "email": "mgomez@aa.cl",
+    "password": "Qwerty123@",
+    "fechaNacimiento": "1985-09-30",
+    "role": "cliente"
+  },
+  {
+    "nombre": "Briam",
+    "apellido": "Carrasco",
+    "usuario": "bcarrascof",
+    "email": "bcarrascof@aa.cl",
+    "password": "Qwerty123@",
+    "fechaNacimiento": "1999-12-02",
+    "role": "cliente"
+  },  
+  
+]
