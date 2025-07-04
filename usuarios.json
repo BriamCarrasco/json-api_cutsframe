@@ -1,5 +1,6 @@
 [
   {
+    "idUsuario":"1";
     "nombre": "Juan",
     "apellido": "Pérez",
     "usuario": "jperez",
@@ -9,6 +10,7 @@
     "role": "cliente"
   },
   {
+    "idUsuario":"2";
     "nombre": "María",
     "apellido": "Gómez",
     "usuario": "mgomez",
@@ -18,6 +20,7 @@
     "role": "cliente"
   },
   {
+    "idUsuario":"3";
     "nombre": "Briam",
     "apellido": "Carrasco",
     "usuario": "bcarrascof",
