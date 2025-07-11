@@ -1,0 +1,22 @@
+[
+  {
+    "id_categoria": 1,
+    "nom_categoria": "Cine",
+    "desc_categoria": "Cámaras para producción cinematográfica."
+  },
+  {
+    "id_categoria": 2,
+    "nom_categoria": "Clásicas",
+    "desc_categoria": "Modelos antiguos o de colección."
+  },
+  {
+    "id_categoria": 3,
+    "nom_categoria": "Digital",
+    "desc_categoria": "Cámaras con tecnología digital moderna."
+  },
+  {
+    "id_categoria": 4,
+    "nom_categoria": "Únicas",
+    "desc_categoria": "Cámaras singulares o personalizadas."
+  }
+]
